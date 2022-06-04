@@ -15,10 +15,6 @@ navbar:
         href: "takehome_exercise/takehome_exercise_4.html"
       - text: "Take-home Exercise 5"
         href: "takehome_exercise/takehome_exercise_5.html"
-    - text: "In-class Exercise"
-      menu: 
-      - text: "In-class Exercise 4"
-        href: "inclass_exercise/4/in-class-exercise-4.html"
       - text: "In-class Exercise 6"
         href: "inclass_exercise/6/handson-exercise-6.html"
   right:
